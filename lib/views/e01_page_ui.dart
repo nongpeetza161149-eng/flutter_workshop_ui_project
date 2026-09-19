@@ -82,7 +82,7 @@ class E01PageUI extends StatelessWidget {
                   ),
                 ),
               ),
-              const SizedBox(height: 40),
+              const SizedBox(height: 40),  
             ],
           ),
         ),

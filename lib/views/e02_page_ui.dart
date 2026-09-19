@@ -10,10 +10,10 @@ class E02PageUI extends StatefulWidget {
 }
 
 class _E02PageUIState extends State<E02PageUI> {
-  bool hidePassword = true;
+  bool hidePassword = true; 
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context) { 
     return Scaffold(
       backgroundColor: Colors.white,
       body: SafeArea(
